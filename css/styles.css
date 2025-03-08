@@ -52,7 +52,8 @@ body {
   max-height: 90px;
   border: 6px solid grey;
   box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
-  transition: all 0.8s ease-in-out;
+  transition: all 0.8s ease-in-out; 
+  border-color: rgb(157, 36, 213);
 }
 
 .whyWLetter, .didDTwoLetter, .takeKLetter, .gardeningILetter, .question-mark, .becauseALetter, .wantedDLetter, .theirTLetter, .exclamation-mark {
